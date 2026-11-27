@@ -1,0 +1,49 @@
+# Объектные и скомпилированные файлы
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.i
+*.ii
+*.s
+
+# Зависимости и отладочные файлы
+*.d
+*.slo
+*.lo
+*.la
+*.gch
+*.pch
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.map
+*.dSYM/
+
+# Каталоги сборки и кэш
+build/
+out/
+bin/
+obj/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+.cache/
+vcpkg_installed/
+
+# Временные файлы и файлы редакторов
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db

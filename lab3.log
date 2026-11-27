@@ -1,0 +1,75 @@
+﻿2026-11-25 19:25:32.668 | ERROR | Program window did not appear
+2026-11-25 19:26:15.255 | ERROR | Program window did not appear
+2026-11-25 19:29:44.276 | ERROR | Program window did not appear
+2026-11-25 19:30:07.678 | ERROR | Program window did not appear
+2026-11-25 19:30:47.820 | ERROR | Program window did not appear
+2026-11-25 19:35:29.715 | ERROR | Program window did not appear
+2026-11-25 19:36:01.524 | ERROR | Program window did not appear
+2026-11-25 19:36:35.154 | ERROR | Program window did not appear
+2026-11-25 19:50:02.147 | ERROR | Program window did not appear
+2026-11-25 19:50:27.051 | ERROR | Program window did not appear
+2026-11-25 19:51:02.769 | START | lab.exe started, PID=17384
+2026-11-25 19:51:14.221 | STOP | lab.exe finished
+2026-11-25 19:51:48.183 | START | lab.exe started, PID=23848
+2026-11-25 19:51:51.040 | KEY | 0 pressed
+2026-11-25 19:51:51.207 | KEY | 9 pressed
+2026-11-25 19:51:59.810 | KEY | X pressed
+2026-11-25 19:51:59.845 | SENT | 5 sent to program (trigger: X)
+2026-11-25 19:52:03.184 | KEY | 4 pressed
+2026-11-25 19:52:03.790 | KEY | X pressed
+2026-11-25 19:52:03.828 | SENT | 5 sent to program (trigger: X)
+2026-11-25 19:52:04.260 | KEY | 3 pressed
+2026-11-25 19:52:05.981 | KEY | 1 pressed
+2026-11-25 19:52:06.266 | KEY | 2 pressed
+2026-11-25 19:52:06.681 | KEY | 3 pressed
+2026-11-25 19:52:07.142 | KEY | 4 pressed
+2026-11-25 19:52:07.552 | KEY | 6 pressed
+2026-11-25 19:52:07.865 | KEY | 7 pressed
+2026-11-25 19:52:07.986 | KEY | 6 pressed
+2026-11-25 19:52:09.409 | KEY | 1 pressed
+2026-11-25 19:52:09.819 | KEY | 3 pressed
+2026-11-25 19:52:09.963 | KEY | 4 pressed
+2026-11-25 19:52:11.980 | STOP | lab.exe finished
+2026-11-27 01:34:24.618 | START | lab.exe started, PID=25228
+2026-11-27 01:34:27.178 | KEY | 0 pressed
+2026-11-27 01:34:27.812 | KEY | 9 pressed
+2026-11-27 01:34:28.094 | KEY | 1 pressed
+2026-11-27 01:34:28.181 | KEY | 2 pressed
+2026-11-27 01:34:28.623 | KEY | 3 pressed
+2026-11-27 01:34:28.714 | KEY | 2 pressed
+2026-11-27 01:34:29.229 | KEY | 4 pressed
+2026-11-27 01:34:29.262 | KEY | 3 pressed
+2026-11-27 01:34:29.634 | KEY | 5 pressed
+2026-11-27 01:34:29.692 | KEY | 3 pressed
+2026-11-27 01:34:30.300 | KEY | LAlt pressed
+2026-11-27 01:34:30.364 | KEY | Tab pressed
+2026-11-27 01:34:42.483 | KEY | LAlt pressed
+2026-11-27 01:34:42.548 | KEY | Tab pressed
+2026-11-27 01:34:44.029 | KEY | LAlt pressed
+2026-11-27 01:34:44.066 | KEY | Tab pressed
+2026-11-27 01:34:47.610 | KEY | LAlt pressed
+2026-11-27 01:34:47.710 | KEY | Tab pressed
+2026-11-27 01:34:48.908 | KEY | LAlt pressed
+2026-11-27 01:34:48.944 | KEY | Tab pressed
+2026-11-27 01:34:50.545 | KEY | Tab pressed
+2026-11-27 01:34:50.564 | KEY | LAlt pressed
+2026-11-27 01:34:51.381 | KEY | LAlt pressed
+2026-11-27 01:34:51.414 | KEY | Tab pressed
+2026-11-27 01:34:57.845 | KEY | Esc pressed
+2026-11-27 01:34:57.880 | STOP | lab.exe finished
+2026-11-27 09:01:54.622 | START | lab.exe started, PID=17856
+2026-11-27 09:01:59.391 | KEY | LAlt pressed
+2026-11-27 09:01:59.442 | KEY | Tab pressed
+2026-11-27 09:02:07.055 | KEY | 9 pressed
+2026-11-27 09:02:07.232 | KEY | 8 pressed
+2026-11-27 09:02:08.224 | KEY | 7 pressed
+2026-11-27 09:02:08.396 | KEY | 6 pressed
+2026-11-27 09:02:09.318 | KEY | 5 pressed
+2026-11-27 09:02:09.586 | KEY | 7 pressed
+2026-11-27 09:02:10.246 | KEY | LAlt pressed
+2026-11-27 09:02:10.308 | KEY | Tab pressed
+2026-11-27 09:02:17.185 | KEY | X pressed
+2026-11-27 09:02:17.227 | SENT | 5 sent to program (trigger: X)
+2026-11-27 09:02:18.674 | KEY | LAlt pressed
+2026-11-27 09:02:18.726 | KEY | Tab pressed
+2026-11-27 09:02:26.063 | STOP | lab.exe finished
