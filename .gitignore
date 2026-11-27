@@ -6,7 +6,6 @@
 *.so
 *.dylib
 *.dll
-*.exe
 *.out
 *.app
 *.i
